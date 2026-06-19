@@ -1,0 +1,17 @@
+# STM32CubeIDE Build-Ordner
+Debug/
+Release/
+
+# Temporäre Dateien und Compiler-Outputs
+*.o
+*.su
+*.d
+*.crf
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Lokale IDE-Einstellungen
+.settings/
